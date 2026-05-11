@@ -1,28 +1,103 @@
-# 💫 About Me:
-💻 Passionate Flutter & Full-Stack Developer focused on building clean, modern, and user-friendly applications.<br>🚀 Enthusiastic about creating real-world projects using Flutter, Firebase.<br>🧠 Strong interest in problem solving, UI/UX design, and scalable application architecture.<br>📱 Currently developing mobile apps with Flutter and exploring modern cross-platform technologies.<br>🌱 Continuously learning new technologies and improving skills in App Development, APIs, and Database integration.<br>🔧 Experience building projects like CRUD applications, chatbot systems, digital tools, and automation solutions.<br>📊 Interested in combining technology with real-life solutions to create impactful digital products.<br>🤝 Open to collaboration, internships, and innovative project opportunities.<br>🎯 Goal: To become a skilled Software Engineer who builds efficient and user-centric applications.<br>⚡ Believe in “Learn → Build → Improve → Repeat” approach for continuous growth.
+# 👋 Hi, I'm Aryan Dhandhukiya
 
+💻 Passionate Flutter & Full-Stack Developer focused on building clean, modern, and user-friendly applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-dhandhukiya-871baa360)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandhandhukiya09@gmail.com)
+🚀 Enthusiastic about creating real-world projects using Flutter, Firebase, APIs, and modern technologies.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aryan-090&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan-090&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-090&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+🧠 Strong interest in:
+- Mobile App Development
+- UI/UX Design
+- API Integration
+- Database Management
+- Scalable Architecture
+- Problem Solving
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aryan-090&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+📱 Currently developing cross-platform mobile applications using Flutter.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌱 Continuously learning and improving skills in:
+- Flutter
+- Firebase
+- REST APIs
+- Backend Development
+- System Design
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryan-090&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔧 Built projects including:
+- CRUD Applications
+- AI Chatbot Systems
+- Fitness & Tracking Apps
+- Digital Utility Tools
+- Automation Solutions
+
+🤝 Open to:
+- Collaborations
+- Internship Opportunities
+- Innovative Projects
+
+🎯 Goal:
+To become a skilled Software Engineer who builds efficient and impactful digital products.
+
+⚡ Motto:
+> Learn → Build → Improve → Repeat
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryan-090&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-dhandhukiya-871baa360)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandhandhukiya09@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 📱 FitLife
+AI-powered fitness and calorie tracking application built using Flutter & Firebase.
+
+## 📋 Student Task & Attendance Manager
+Task and attendance management system developed during internship project.
+
+## 🤖 AI Chatbot Applications
+Smart chatbot systems with API integrations and modern UI.
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Aryan-090&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-090&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-090&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Aryan-090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+# 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Aryan-090&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
